@@ -86,6 +86,12 @@ Click **"Ask me anything!"**, speak your question, and wait for the response —
 ├── samples/             # Example audio outputs for demo purposes
 └── README.md
 ```
+## Outputs
+
+
+<img width="1014" height="755" alt="Screenshot 2026-07-18 at 12 52 13 PM" src="https://github.com/user-attachments/assets/b0db63d7-3020-48d2-b8aa-8e8f725e6fe5" />
+<img width="1680" height="1050" alt="Screenshot 2026-07-18 at 12 22 27 PM" src="https://github.com/user-attachments/assets/8a58ae8e-3c78-4f3f-b95e-957ec7736da5" />
+<img width="1680" height="910" alt="Screenshot 2026-07-18 at 12 25 52 PM" src="https://github.com/user-attachments/assets/1cd37f8c-1454-4576-a0c9-a885e2e031aa" />
 
 ## Notes on rate limits
 
